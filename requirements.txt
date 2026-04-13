@@ -1,0 +1,8 @@
+streamlit
+torch
+torchvision
+pytorch-gradcam
+opencv-python-headless
+pillow
+numpy
+plotly
