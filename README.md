@@ -4,7 +4,7 @@
 
 ## 📖 Overview
 
-### What is this? 
+### What is this? (In Plain English)
 Imagine an AI as a master detective solving a case. When the detective points to a suspect and says "That's the culprit!", you might logically ask, *"How do you know? What exact clues led you to that conclusion?"*
 
 Deep Neural Networks (modern AI) are incredibly smart at classifying images, but they are often "black boxes"—meaning they give us an answer, but they don't tell us *how* they got there. 
