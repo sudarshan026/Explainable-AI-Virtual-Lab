@@ -1,8 +1,8 @@
-streamlit
 torch
 torchvision
 pytorch-gradcam
-opencv-python-headless
 pillow
-numpy
 plotly
+numpy==1.26.4
+opencv-python-headless==4.9.0.80
+streamlit==1.32.0
