@@ -1,6 +1,6 @@
 # 🧠 Explainable AI (XAI) Virtual Lab
 
-![UI Banner Preview](https://img.shields.io/badge/UI-Cyberpunk_Glassmorphism-00f0ff?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python) ![PyTorch](https://img.shields.io/badge/PyTorch-deep_learning-ee4c2c?style=for-the-badge&logo=pytorch) ![Streamlit](https://img.shields.io/badge/Streamlit-Web_App-ff4b4b?style=for-the-badge&logo=streamlit)
+![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python) ![PyTorch](https://img.shields.io/badge/PyTorch-deep_learning-ee4c2c?style=for-the-badge&logo=pytorch) ![Streamlit](https://img.shields.io/badge/Streamlit-Web_App-ff4b4b?style=for-the-badge&logo=streamlit)
 
 ## 📖 Overview
 
